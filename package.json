@@ -1,0 +1,17 @@
+{
+  "name": "@humzabilal/simple-calculater",
+  "version": "1.0.0",
+  "description": "A simple calculator package",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aapka Naam",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
